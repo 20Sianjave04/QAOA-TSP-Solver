@@ -52,13 +52,4 @@ To run this code, you’ll need:
 
 - Python 3.x
 - [Qiskit](https://qiskit.org/)
-- Other dependencies can be installed using the `requirements.txt` file.
 
-### Installation
-
-Clone this repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/Quantum-TSP-QAOA.git
-cd Quantum-TSP-QAOA
-pip install -r requirements.txt
